@@ -1,0 +1,1 @@
+已经和GitHub结合：https://github.com/caibaoer/ehcache.git
